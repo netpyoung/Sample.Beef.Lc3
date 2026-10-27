@@ -1,8 +1,12 @@
 # Sample.Beef.Lc3
 
-Sample [[LC3](Little Computer 3)](https://en.wikipedia.org/wiki/Little_Computer_3) Emulator Implemented in the Beef.
+Sample [LC-3(Little Computer 3)](https://en.wikipedia.org/wiki/Little_Computer_3) Emulator Implemented in the Beef.
 
 - [beeflang](https://www.beeflang.org/)
+
+## Screenshot
+
+![./doc/lc3_2048.png](./doc/lc3_2048.png)
 
 ## Ref
 
