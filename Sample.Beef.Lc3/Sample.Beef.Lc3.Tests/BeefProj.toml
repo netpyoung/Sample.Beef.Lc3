@@ -1,0 +1,10 @@
+FileVersion = 1
+
+[Project]
+Name = "Sample.Beef.Lc3.Tests"
+TargetType = "BeefTest"
+StartupObject = "Sample.Beef.Lc3.Tests.Program"
+
+[Dependencies]
+corlib = "*"
+"Sample.Beef.Lc3" = "*"

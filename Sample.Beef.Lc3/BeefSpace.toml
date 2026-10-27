@@ -1,0 +1,8 @@
+FileVersion = 1
+
+[Workspace]
+StartupProject = "Sample.Beef.Lc3.Tests"
+
+[Projects]
+"Sample.Beef.Lc3" = {Path = "Sample.Beef.Lc3"}
+"Sample.Beef.Lc3.Tests" = {Path = "Sample.Beef.Lc3.Tests"}
